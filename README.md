@@ -16,7 +16,7 @@ This was my first complete programming project. I built it step by step to learn
 **How to run**
 1. Make sure you have Python 3 installed.
 2. Download or clone this repository:
-   git clone https://github.com/YOUR-USERNAME/snake-pygame.git
+   git clone https://github.com/lina-nr/snake-pygame.git
    cd snake-pygame
 3. Install the dependency:
    pip install -r requirements.txt
