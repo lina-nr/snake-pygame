@@ -25,9 +25,9 @@ This was my first complete programming project. I built it step by step to learn
 (On some systems, use python3 instead of python)
 
 **Controls**
-Key: ← ↑ → ↓	     Action: Change direction
-Key: SPACE	       Action: Restart after game over
-Key: Close window	 Action: Quit
+Key: ← ↑ → ↓	   -> Action: Change direction
+Key: SPACE	      -> Action: Restart after game over
+Key: Close window	-> Action: Quit
 
 **How it works**
 • Game loop: the game runs in a while loop at 10 frames per second (clock.tick(10)). Each frame, it reads input, updates the snake, checks collisions and redraws the screen.
